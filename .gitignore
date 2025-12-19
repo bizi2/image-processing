@@ -1,0 +1,6 @@
+*.keras
+*.h5
+.vscode/
+user_photo*.jpg
+__pycache__/
+*.pyc
